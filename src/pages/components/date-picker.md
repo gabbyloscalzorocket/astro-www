@@ -40,7 +40,7 @@ When present, the Date Picker footer contains two actionable items: an Apply but
 
 
 ## Date Format
-
+piata cat 
 Astro provides three date format options for the Date Picker: Gregorian, Julian, and a combined view displaying both date formats simultaneously.
 
 ### Default Calendar Format (Gregorian)
